@@ -1,0 +1,20 @@
+.detail-container {
+  border: 1px solid #989898;
+  border-radius: 20px;
+  width: 300px;
+  height: 100%;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.detail-title {
+  color: #1b2af8c4;
+  margin-top: 0;
+}
+
+.detail-content {
+  border: 1px dashed #989898;
+  padding: 10px;
+  height: 130px;
+  border-radius: 10px;
+}
